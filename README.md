@@ -48,3 +48,7 @@ We also provide an errors checks in order to remove non working proxies and try 
 - Create Scraping module
 - Create Parsing module
 - Support HTTPS
+- Support gzip madness
+- Maybe use a better way to forward requests than requests.Request module
+- Create my own HTTP parser
+- See later..
