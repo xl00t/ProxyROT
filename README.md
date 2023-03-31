@@ -1,4 +1,4 @@
-#*Proxy ROT*
+# Proxy ROT
 
 ## Description :
 
